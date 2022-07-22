@@ -1,4 +1,4 @@
-#Creating a simple GUI application using PyQt involves the following steps:
+Creating a simple GUI application using PyQt involves the following steps:
 
    1. Create a QApplication object.
    2. Create a QWidget object.
